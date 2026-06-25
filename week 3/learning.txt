@@ -1,0 +1,12 @@
+WEEK 3 REVIEW: DEEP TRAINING FRAMES & COMPUTER VISION LAYERS
+=============================================================
+Moved away from simple processing rows into multi-layer visual networks and tensor shapes.
+
+1. PARAMETER OPTIMIZATION
+   - Tensor Operations: Traced how matrix data dimensions scale as they pass through consecutive network node configurations.
+   - Error Adjustments: Explored how gradient feedback loops automatically correct system weights based on prediction differences.
+
+2. CONVOLUTIONAL MECHANICS
+   - Feature Capturing: Observed how sliding visual filter grids scan input arrays to find distinct textures like cracks and metallic seams.
+   - Compression Steps: Applied max reduction layers to pick out the strongest signal pixels, downscaling the overall array size to save memory.
+   - Vector Conversion: Stretched multi-channel layer blocks into a single row of values to run final category calculations.
