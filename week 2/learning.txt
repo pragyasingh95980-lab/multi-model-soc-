@@ -1,0 +1,13 @@
+WEEK 2 REVIEW: PANDAS DATA WRANGLING & MODEL FOUNDATIONS
+========================================================
+Spent the week sorting data tables, handling missing info, and checking baseline model frameworks.
+
+1. MANIPULATING TABLES
+   - Array Layouts: Learned to separate basic single-column index structures from full row-and-column layout tables.
+   - Data Refinement: Worked with functions that clean up missing cells by either cutting broken entries or inserting default neutral entries.
+   - State Tracking: Observed that avoiding direct updates prevents overwriting data sources, which helps keep our data pipelines clean.
+
+2. CLASSIFICATION PIPELINES
+   - Vector Boundaries: Analyzed sample metrics to understand how basic input criteria line up to form clear prediction rules.
+   - Dataset Summaries: Reviewed simple functions that calculate standard variations and middle ranges to understand dataset spreads.
+   - Aggregation Logic: Explored how combining separate baseline models using random sample sets smooths out errors and lowers overall prediction variance.
