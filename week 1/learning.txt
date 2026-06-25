@@ -1,0 +1,16 @@
+WEEK 1 REVIEW: BASIC PIPELINES & PROJECT ROOTS
+===============================================
+Dealt with basic scripting structures, variable tracking, and remote code deployment rules.
+
+1. SCANNING METHODS & CONDITIONAL LOOPS
+   - Boundary Pointers: Explored how shrinking distance coordinates from both sides yields fast target match checks across linear arrays.
+   - Sliding Blocks: Practiced using a rolling sum indicator to evaluate data streams without running redundant calculations over the same elements.
+   - Linear Parsing: Implemented baseline looping functions to scan entry vectors, index issues, and process array variables.
+
+2. CODE MODULARITY
+   - Function Bundling: Wrote basic calculations inside custom definitions that ingest datasets and yield clean profile metrics.
+   - Property Blueprints: Constructed classes to organize diagnostic readouts, isolate private details, and trace running variations.
+
+3. SYSTEM CONTROL
+   - Local Configuration: Ran initial shell instructions to initialize source roots, set main development branches, and stage assets.
+   - Public Syncing: Mastered pushing staged project folders online using systematic message logs to map workspace upgrades cleanly.
